@@ -11,18 +11,3 @@ Building an in-game app takes a lot of effort and dedication. We know that, and 
 The Overwolf Developers community is a great place to learn from other developers, ask questions, and get to meet creators.
 
 [Join the Overwolf developers community now!](https://discord.gg/overwolf-developers?utm_source=Partner+Developers&utm_campaign=424a1b8f2f-EMAIL_CAMPAIGN_2020_07_08_01_21_COPY_01&utm_medium=email&utm_term=0_e07c3e8158-424a1b8f2f-)
-
-## How can the community help?
-
-* Ask questions and get quick answers from the community
-
-![join-the-community](assets/join-the-community/1.png)
-
-* Get feedback for your UI
-
-![join-the-community](assets/join-the-community/2.png)
-
-* Learn from other developers
-
-![join-the-community](assets/join-the-community/3.png)
-
